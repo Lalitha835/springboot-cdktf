@@ -14,7 +14,7 @@ public class EmployeeController {
 
     @GetMapping
     public String hello() {
-        return "Hello from springboot microservice";
+        return "Hello new update from springboot microservice";
     }
 
     @PostMapping("/employees")
