@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Define variables
-CLUSTER_NAME="springboot_eks_cluster"
-REGION="us-east-1"
+CLUSTER_NAME="springbootekscluster"
+REGION="us-west-1"
 NAMESPACE="default"
 DEPLOYMENT_FILE="deployment.yaml"
 SERVICE_FILE="service.yaml"

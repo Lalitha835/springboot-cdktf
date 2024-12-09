@@ -1,7 +1,7 @@
 ECR_NAME="appreposfortrainingtrinet"
-REGION="us-east-1"
+REGION="us-west-1"
 MICROSERVICE_NAME="springboot-microservice"
-ACCOUNT_ID="711387112361"
+ACCOUNT_ID="962962113606"
 HOST_PORT="8200"
 TARGET_PORT="8080"
 
